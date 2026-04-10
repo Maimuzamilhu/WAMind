@@ -1,5 +1,5 @@
 
-# 🤖 Muzz - The Ultimate AI WhatsApp Companion
+# 🤖 WAMind - The Ultimate AI WhatsApp Companion
 
 <div align="center">
   <img src="muzz_ai_logo_1770145627798.png" alt="Muzz AI Logo" width="300" />
