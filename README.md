@@ -25,7 +25,7 @@
 
 ## 📖 About The Project
 
-**Muzz** is a state-of-the-art AI agent designed to live where you chat—WhatsApp. Unlike standard chatbots, Muzz maintains a persistent identity, remembers past conversations indefinitely, and understands the world through multiple modalities.
+**WAMind** is a state-of-the-art AI agent designed to live where you chat—WhatsApp. Unlike standard chatbots, Muzz maintains a persistent identity, remembers past conversations indefinitely, and understands the world through multiple modalities.
 
 It is built on a sophisticated **LangGraph** architecture, allowing for complex decision-making, tool usage, and autonomous state management.
 
